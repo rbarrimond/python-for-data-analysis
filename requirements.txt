@@ -1,10 +1,14 @@
 jupyter
 pandas
 numpy
+scikit-learn
+matplotlib
+seaborn
+# Pygal course
 pygal
 pygal_maps_world
 pyquery
 cairosvg
-scikit-learn
-matplotlib
-seaborn
+# SQL Alchemy course
+sqlalchemy
+mysql-connector-python
